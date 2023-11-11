@@ -1,0 +1,1 @@
+# MGMT-app-Graphql
